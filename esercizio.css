@@ -1,3 +1,20 @@
 pre{
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+}
+.include{
+    color: yellow;
+}
+.header{
+    color: green;
+}
+.int{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.pa{
+    color: purple;
 }
